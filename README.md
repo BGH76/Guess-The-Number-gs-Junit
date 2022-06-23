@@ -1,5 +1,5 @@
-# Guess-The-Number-gs-Junit
+Guess-The-Number-gs-Junit
 
-# Rebuilt the Guess The Number game with Junit test cases.
+Rebuilt the Guess The Number game with Junit test cases.
 
-# Project and Test cases were developed to meet project requirements.
+Project and Test cases were developed to meet project requirements.
